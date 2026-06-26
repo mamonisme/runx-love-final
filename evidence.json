@@ -1,0 +1,8 @@
+{
+  "claim_type": "public_support_action",
+  "public_url": "https://github.com/mamonisme/runx-love-final",
+  "runx_link_found": true,
+  "summary": "A beginner-friendly guide to Runx covering what it is, how to get started, and why it matters for agent developers.",
+  "audience": "Developers interested in agent tooling, AI safety, and portable skills.",
+  "why_allowed": "Hosted in a public GitHub repository, accessible to anyone without authentication. The content is original, non-promotional, and provides educational value about the Runx project."
+}
