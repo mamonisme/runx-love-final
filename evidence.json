@@ -21,5 +21,7 @@
       "type": "text",
       "content": "The guide points to key resources: the official documentation at https://runx.ai/docs, the GitHub repository, and the example skills directory for learning by example."
     }
-  ]
+  ],
+  "audience": "Developers interested in agent tooling, AI safety, and portable skills.",
+  "why_allowed": "Hosted in a public GitHub repository, accessible to anyone without authentication. The content is original, non-promotional, and provides educational value about the Runx project."
 }
