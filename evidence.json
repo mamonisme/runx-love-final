@@ -1,19 +1,25 @@
-[
-  {
-    "type": "text",
-    "content": "The guide explains Runx core concepts: governed execution, portable skills, and receipts."
-  },
-  {
-    "type": "link",
-    "url": "https://github.com/runxhq/runx",
-    "content": "Links to the official Runx repository."
-  },
-  {
-    "type": "text",
-    "content": "Includes getting started steps: install CLI, init, implement, test, publish."
-  },
-  {
-    "type": "text",
-    "content": "Provides resources: official docs, GitHub repo, example skills."
-  }
-]
+{
+  "claim_type": "public_support_action",
+  "public_url": "https://github.com/mamonisme/runx-love-final",
+  "runx_link_found": true,
+  "summary": "This guide provides a comprehensive introduction to the Runx framework, covering its core principles of governed execution and portable skills, explaining how to install the CLI, initialize a skill, implement logic, test locally, and publish, while highlighting the importance of receipts for verifiable agent actions and linking to official resources for further learning.",
+  "observations": [
+    {
+      "type": "text",
+      "content": "The guide explains that Runx provides governed execution through sandboxes with spend caps and policy bounds, ensuring safe and predictable agent behavior."
+    },
+    {
+      "type": "link",
+      "url": "https://github.com/runxhq/runx",
+      "content": "Links to the official Runx repository where users can find the source code, documentation, and examples."
+    },
+    {
+      "type": "text",
+      "content": "It includes step-by-step getting started instructions: install the Runx CLI via npm, initialize a new skill with 'runx init', implement skill logic in skill.py or skill.js, test locally with 'runx run', and publish to the Runx registry."
+    },
+    {
+      "type": "text",
+      "content": "The guide points to key resources: the official documentation at https://runx.ai/docs, the GitHub repository, and the example skills directory for learning by example."
+    }
+  ]
+}
