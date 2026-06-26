@@ -1,0 +1,19 @@
+# Report: Give runx some love
+
+## What I did
+I created a public GitHub repository containing a README.md that serves as an introduction to the Runx framework, including installation steps, usage example, and pointers to official resources.
+
+## Why this qualifies
+- The guide is original and specific to Runx.
+- It includes a link to the official repository (https://github.com/runxhq/runx).
+- It is hosted on a publicly accessible URL (GitHub repo) that requires no login to view.
+- The content is educational, not promotional, and aims to help newcomers understand and start using Runx.
+- It follows the bounty guidelines: a public support action that is useful to readers/maintainers.
+
+## Links
+- Public URL (this repo): https://github.com/mamonisme/runx-love-final
+- Evidence JSON: see evidence.json in the repo.
+- Report: see report.txt in the repo.
+
+## Impact
+Hopefully this helps at least one developer discover Runx and start building governed agent skills.
