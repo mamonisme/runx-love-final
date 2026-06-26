@@ -4,7 +4,7 @@
   "runx_link_found": true,
   "summary": "This guide provides a comprehensive introduction to the Runx framework, covering its core principles of governed execution and portable skills, explaining how to install the CLI, initialize a skill, implement logic, test locally, and publish, while highlighting the importance of receipts for verifiable agent actions and linking to official resources for further learning.",
   "audience": "Developers interested in agent tooling, AI safety, and portable skills who want a quick, reliable starting point for building governed Runx skills.",
-  "why_allowed": "Hosted in a public GitHub repository, accessible to anyone without authentication. The content is original, non-promotional, and provides educational value about the Runx project \u2013 it contains no advertising, affiliate links, or calls to action, and it directly supports the bounty\u2019s goal of a public\u2011support action for Runx.",
+  "why_allowed": "Hosted in a public GitHub repository, accessible to anyone without authentication. The content is original, non\u2011promotional, and provides educational value about the Runx project \u2013 it contains no advertising, affiliate links, or calls to action, and it directly supports the bounty\u2019s goal of a public\u2011support action for Runx.",
   "observations": [
     {
       "type": "text",
